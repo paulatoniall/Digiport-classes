@@ -12,7 +12,7 @@ console.log(`
     ${nome} tem ${idade} anos, pesa ${peso} kg,
     Tem ${altura}m e seu IMC é de ${imc}
     ${nomeSeparado[0].toLowerCase()} ${nomeSeparado[2].toLowerCase()} nasceu em ${anoNascimento}
-    `)
+    `);
 
 
 
